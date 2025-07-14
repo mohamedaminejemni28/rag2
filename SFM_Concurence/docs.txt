@@ -1,0 +1,1800 @@
+ID Concurrent: COMP-001
+Produit/Service: Formation IA
+Tarif: 1050 euros
+Offre Spéciale: Non
+--------------------------
+
+ID Concurrent: COMP-002
+Produit/Service: Formation Cloud
+Tarif: 1100 euros
+Offre Spéciale: Non
+--------------------------
+
+ID Concurrent: COMP-003
+Produit/Service: Audit SI
+Tarif: 1150 euros
+Offre Spéciale: Non
+--------------------------
+
+ID Concurrent: COMP-004
+Produit/Service: Cybersécurité
+Tarif: 1200 euros
+Offre Spéciale: Non
+--------------------------
+
+ID Concurrent: COMP-005
+Produit/Service: Consulting
+Tarif: 1250 euros
+Offre Spéciale: Oui
+--------------------------
+
+ID Concurrent: COMP-006
+Produit/Service: Formation IA
+Tarif: 1300 euros
+Offre Spéciale: Non
+--------------------------
+
+ID Concurrent: COMP-007
+Produit/Service: Formation Cloud
+Tarif: 1350 euros
+Offre Spéciale: Non
+--------------------------
+
+ID Concurrent: COMP-008
+Produit/Service: Audit SI
+Tarif: 1400 euros
+Offre Spéciale: Non
+--------------------------
+
+ID Concurrent: COMP-009
+Produit/Service: Cybersécurité
+Tarif: 1450 euros
+Offre Spéciale: Non
+--------------------------
+
+ID Concurrent: COMP-010
+Produit/Service: Consulting
+Tarif: 1500 euros
+Offre Spéciale: Oui
+--------------------------
+
+ID Concurrent: COMP-011
+Produit/Service: Formation IA
+Tarif: 1550 euros
+Offre Spéciale: Non
+--------------------------
+
+ID Concurrent: COMP-012
+Produit/Service: Formation Cloud
+Tarif: 1600 euros
+Offre Spéciale: Non
+--------------------------
+
+ID Concurrent: COMP-013
+Produit/Service: Audit SI
+Tarif: 1650 euros
+Offre Spéciale: Non
+--------------------------
+
+ID Concurrent: COMP-014
+Produit/Service: Cybersécurité
+Tarif: 1700 euros
+Offre Spéciale: Non
+--------------------------
+
+ID Concurrent: COMP-015
+Produit/Service: Consulting
+Tarif: 1750 euros
+Offre Spéciale: Oui
+--------------------------
+
+ID Concurrent: COMP-016
+Produit/Service: Formation IA
+Tarif: 1800 euros
+Offre Spéciale: Non
+--------------------------
+
+ID Concurrent: COMP-017
+Produit/Service: Formation Cloud
+Tarif: 1850 euros
+Offre Spéciale: Non
+--------------------------
+
+ID Concurrent: COMP-018
+Produit/Service: Audit SI
+Tarif: 1900 euros
+Offre Spéciale: Non
+--------------------------
+
+ID Concurrent: COMP-019
+Produit/Service: Cybersécurité
+Tarif: 1950 euros
+Offre Spéciale: Non
+--------------------------
+
+ID Concurrent: COMP-020
+Produit/Service: Consulting
+Tarif: 1000 euros
+Offre Spéciale: Oui
+--------------------------
+
+ID Concurrent: COMP-021
+Produit/Service: Formation IA
+Tarif: 1050 euros
+Offre Spéciale: Non
+--------------------------
+
+ID Concurrent: COMP-022
+Produit/Service: Formation Cloud
+Tarif: 1100 euros
+Offre Spéciale: Non
+--------------------------
+
+ID Concurrent: COMP-023
+Produit/Service: Audit SI
+Tarif: 1150 euros
+Offre Spéciale: Non
+--------------------------
+
+ID Concurrent: COMP-024
+Produit/Service: Cybersécurité
+Tarif: 1200 euros
+Offre Spéciale: Non
+--------------------------
+
+ID Concurrent: COMP-025
+Produit/Service: Consulting
+Tarif: 1250 euros
+Offre Spéciale: Oui
+--------------------------
+
+ID Concurrent: COMP-026
+Produit/Service: Formation IA
+Tarif: 1300 euros
+Offre Spéciale: Non
+--------------------------
+
+ID Concurrent: COMP-027
+Produit/Service: Formation Cloud
+Tarif: 1350 euros
+Offre Spéciale: Non
+--------------------------
+
+ID Concurrent: COMP-028
+Produit/Service: Audit SI
+Tarif: 1400 euros
+Offre Spéciale: Non
+--------------------------
+
+ID Concurrent: COMP-029
+Produit/Service: Cybersécurité
+Tarif: 1450 euros
+Offre Spéciale: Non
+--------------------------
+
+ID Concurrent: COMP-030
+Produit/Service: Consulting
+Tarif: 1500 euros
+Offre Spéciale: Oui
+--------------------------
+
+ID Concurrent: COMP-031
+Produit/Service: Formation IA
+Tarif: 1550 euros
+Offre Spéciale: Non
+--------------------------
+
+ID Concurrent: COMP-032
+Produit/Service: Formation Cloud
+Tarif: 1600 euros
+Offre Spéciale: Non
+--------------------------
+
+ID Concurrent: COMP-033
+Produit/Service: Audit SI
+Tarif: 1650 euros
+Offre Spéciale: Non
+--------------------------
+
+ID Concurrent: COMP-034
+Produit/Service: Cybersécurité
+Tarif: 1700 euros
+Offre Spéciale: Non
+--------------------------
+
+ID Concurrent: COMP-035
+Produit/Service: Consulting
+Tarif: 1750 euros
+Offre Spéciale: Oui
+--------------------------
+
+ID Concurrent: COMP-036
+Produit/Service: Formation IA
+Tarif: 1800 euros
+Offre Spéciale: Non
+--------------------------
+
+ID Concurrent: COMP-037
+Produit/Service: Formation Cloud
+Tarif: 1850 euros
+Offre Spéciale: Non
+--------------------------
+
+ID Concurrent: COMP-038
+Produit/Service: Audit SI
+Tarif: 1900 euros
+Offre Spéciale: Non
+--------------------------
+
+ID Concurrent: COMP-039
+Produit/Service: Cybersécurité
+Tarif: 1950 euros
+Offre Spéciale: Non
+--------------------------
+
+ID Concurrent: COMP-040
+Produit/Service: Consulting
+Tarif: 1000 euros
+Offre Spéciale: Oui
+--------------------------
+
+ID Concurrent: COMP-041
+Produit/Service: Formation IA
+Tarif: 1050 euros
+Offre Spéciale: Non
+--------------------------
+
+ID Concurrent: COMP-042
+Produit/Service: Formation Cloud
+Tarif: 1100 euros
+Offre Spéciale: Non
+--------------------------
+
+ID Concurrent: COMP-043
+Produit/Service: Audit SI
+Tarif: 1150 euros
+Offre Spéciale: Non
+--------------------------
+
+ID Concurrent: COMP-044
+Produit/Service: Cybersécurité
+Tarif: 1200 euros
+Offre Spéciale: Non
+--------------------------
+
+ID Concurrent: COMP-045
+Produit/Service: Consulting
+Tarif: 1250 euros
+Offre Spéciale: Oui
+--------------------------
+
+ID Concurrent: COMP-046
+Produit/Service: Formation IA
+Tarif: 1300 euros
+Offre Spéciale: Non
+--------------------------
+
+ID Concurrent: COMP-047
+Produit/Service: Formation Cloud
+Tarif: 1350 euros
+Offre Spéciale: Non
+--------------------------
+
+ID Concurrent: COMP-048
+Produit/Service: Audit SI
+Tarif: 1400 euros
+Offre Spéciale: Non
+--------------------------
+
+ID Concurrent: COMP-049
+Produit/Service: Cybersécurité
+Tarif: 1450 euros
+Offre Spéciale: Non
+--------------------------
+
+ID Concurrent: COMP-050
+Produit/Service: Consulting
+Tarif: 1500 euros
+Offre Spéciale: Oui
+--------------------------
+
+ID Concurrent: COMP-051
+Produit/Service: Formation IA
+Tarif: 1550 euros
+Offre Spéciale: Non
+--------------------------
+
+ID Concurrent: COMP-052
+Produit/Service: Formation Cloud
+Tarif: 1600 euros
+Offre Spéciale: Non
+--------------------------
+
+ID Concurrent: COMP-053
+Produit/Service: Audit SI
+Tarif: 1650 euros
+Offre Spéciale: Non
+--------------------------
+
+ID Concurrent: COMP-054
+Produit/Service: Cybersécurité
+Tarif: 1700 euros
+Offre Spéciale: Non
+--------------------------
+
+ID Concurrent: COMP-055
+Produit/Service: Consulting
+Tarif: 1750 euros
+Offre Spéciale: Oui
+--------------------------
+
+ID Concurrent: COMP-056
+Produit/Service: Formation IA
+Tarif: 1800 euros
+Offre Spéciale: Non
+--------------------------
+
+ID Concurrent: COMP-057
+Produit/Service: Formation Cloud
+Tarif: 1850 euros
+Offre Spéciale: Non
+--------------------------
+
+ID Concurrent: COMP-058
+Produit/Service: Audit SI
+Tarif: 1900 euros
+Offre Spéciale: Non
+--------------------------
+
+ID Concurrent: COMP-059
+Produit/Service: Cybersécurité
+Tarif: 1950 euros
+Offre Spéciale: Non
+--------------------------
+
+ID Concurrent: COMP-060
+Produit/Service: Consulting
+Tarif: 1000 euros
+Offre Spéciale: Oui
+--------------------------
+
+ID Concurrent: COMP-061
+Produit/Service: Formation IA
+Tarif: 1050 euros
+Offre Spéciale: Non
+--------------------------
+
+ID Concurrent: COMP-062
+Produit/Service: Formation Cloud
+Tarif: 1100 euros
+Offre Spéciale: Non
+--------------------------
+
+ID Concurrent: COMP-063
+Produit/Service: Audit SI
+Tarif: 1150 euros
+Offre Spéciale: Non
+--------------------------
+
+ID Concurrent: COMP-064
+Produit/Service: Cybersécurité
+Tarif: 1200 euros
+Offre Spéciale: Non
+--------------------------
+
+ID Concurrent: COMP-065
+Produit/Service: Consulting
+Tarif: 1250 euros
+Offre Spéciale: Oui
+--------------------------
+
+ID Concurrent: COMP-066
+Produit/Service: Formation IA
+Tarif: 1300 euros
+Offre Spéciale: Non
+--------------------------
+
+ID Concurrent: COMP-067
+Produit/Service: Formation Cloud
+Tarif: 1350 euros
+Offre Spéciale: Non
+--------------------------
+
+ID Concurrent: COMP-068
+Produit/Service: Audit SI
+Tarif: 1400 euros
+Offre Spéciale: Non
+--------------------------
+
+ID Concurrent: COMP-069
+Produit/Service: Cybersécurité
+Tarif: 1450 euros
+Offre Spéciale: Non
+--------------------------
+
+ID Concurrent: COMP-070
+Produit/Service: Consulting
+Tarif: 1500 euros
+Offre Spéciale: Oui
+--------------------------
+
+ID Concurrent: COMP-071
+Produit/Service: Formation IA
+Tarif: 1550 euros
+Offre Spéciale: Non
+--------------------------
+
+ID Concurrent: COMP-072
+Produit/Service: Formation Cloud
+Tarif: 1600 euros
+Offre Spéciale: Non
+--------------------------
+
+ID Concurrent: COMP-073
+Produit/Service: Audit SI
+Tarif: 1650 euros
+Offre Spéciale: Non
+--------------------------
+
+ID Concurrent: COMP-074
+Produit/Service: Cybersécurité
+Tarif: 1700 euros
+Offre Spéciale: Non
+--------------------------
+
+ID Concurrent: COMP-075
+Produit/Service: Consulting
+Tarif: 1750 euros
+Offre Spéciale: Oui
+--------------------------
+
+ID Concurrent: COMP-076
+Produit/Service: Formation IA
+Tarif: 1800 euros
+Offre Spéciale: Non
+--------------------------
+
+ID Concurrent: COMP-077
+Produit/Service: Formation Cloud
+Tarif: 1850 euros
+Offre Spéciale: Non
+--------------------------
+
+ID Concurrent: COMP-078
+Produit/Service: Audit SI
+Tarif: 1900 euros
+Offre Spéciale: Non
+--------------------------
+
+ID Concurrent: COMP-079
+Produit/Service: Cybersécurité
+Tarif: 1950 euros
+Offre Spéciale: Non
+--------------------------
+
+ID Concurrent: COMP-080
+Produit/Service: Consulting
+Tarif: 1000 euros
+Offre Spéciale: Oui
+--------------------------
+
+ID Concurrent: COMP-081
+Produit/Service: Formation IA
+Tarif: 1050 euros
+Offre Spéciale: Non
+--------------------------
+
+ID Concurrent: COMP-082
+Produit/Service: Formation Cloud
+Tarif: 1100 euros
+Offre Spéciale: Non
+--------------------------
+
+ID Concurrent: COMP-083
+Produit/Service: Audit SI
+Tarif: 1150 euros
+Offre Spéciale: Non
+--------------------------
+
+ID Concurrent: COMP-084
+Produit/Service: Cybersécurité
+Tarif: 1200 euros
+Offre Spéciale: Non
+--------------------------
+
+ID Concurrent: COMP-085
+Produit/Service: Consulting
+Tarif: 1250 euros
+Offre Spéciale: Oui
+--------------------------
+
+ID Concurrent: COMP-086
+Produit/Service: Formation IA
+Tarif: 1300 euros
+Offre Spéciale: Non
+--------------------------
+
+ID Concurrent: COMP-087
+Produit/Service: Formation Cloud
+Tarif: 1350 euros
+Offre Spéciale: Non
+--------------------------
+
+ID Concurrent: COMP-088
+Produit/Service: Audit SI
+Tarif: 1400 euros
+Offre Spéciale: Non
+--------------------------
+
+ID Concurrent: COMP-089
+Produit/Service: Cybersécurité
+Tarif: 1450 euros
+Offre Spéciale: Non
+--------------------------
+
+ID Concurrent: COMP-090
+Produit/Service: Consulting
+Tarif: 1500 euros
+Offre Spéciale: Oui
+--------------------------
+
+ID Concurrent: COMP-091
+Produit/Service: Formation IA
+Tarif: 1550 euros
+Offre Spéciale: Non
+--------------------------
+
+ID Concurrent: COMP-092
+Produit/Service: Formation Cloud
+Tarif: 1600 euros
+Offre Spéciale: Non
+--------------------------
+
+ID Concurrent: COMP-093
+Produit/Service: Audit SI
+Tarif: 1650 euros
+Offre Spéciale: Non
+--------------------------
+
+ID Concurrent: COMP-094
+Produit/Service: Cybersécurité
+Tarif: 1700 euros
+Offre Spéciale: Non
+--------------------------
+
+ID Concurrent: COMP-095
+Produit/Service: Consulting
+Tarif: 1750 euros
+Offre Spéciale: Oui
+--------------------------
+
+ID Concurrent: COMP-096
+Produit/Service: Formation IA
+Tarif: 1800 euros
+Offre Spéciale: Non
+--------------------------
+
+ID Concurrent: COMP-097
+Produit/Service: Formation Cloud
+Tarif: 1850 euros
+Offre Spéciale: Non
+--------------------------
+
+ID Concurrent: COMP-098
+Produit/Service: Audit SI
+Tarif: 1900 euros
+Offre Spéciale: Non
+--------------------------
+
+ID Concurrent: COMP-099
+Produit/Service: Cybersécurité
+Tarif: 1950 euros
+Offre Spéciale: Non
+--------------------------
+
+ID Concurrent: COMP-100
+Produit/Service: Consulting
+Tarif: 1000 euros
+Offre Spéciale: Oui
+--------------------------
+
+ID Concurrent: COMP-101
+Produit/Service: Formation IA
+Tarif: 1050 euros
+Offre Spéciale: Non
+--------------------------
+
+ID Concurrent: COMP-102
+Produit/Service: Formation Cloud
+Tarif: 1100 euros
+Offre Spéciale: Non
+--------------------------
+
+ID Concurrent: COMP-103
+Produit/Service: Audit SI
+Tarif: 1150 euros
+Offre Spéciale: Non
+--------------------------
+
+ID Concurrent: COMP-104
+Produit/Service: Cybersécurité
+Tarif: 1200 euros
+Offre Spéciale: Non
+--------------------------
+
+ID Concurrent: COMP-105
+Produit/Service: Consulting
+Tarif: 1250 euros
+Offre Spéciale: Oui
+--------------------------
+
+ID Concurrent: COMP-106
+Produit/Service: Formation IA
+Tarif: 1300 euros
+Offre Spéciale: Non
+--------------------------
+
+ID Concurrent: COMP-107
+Produit/Service: Formation Cloud
+Tarif: 1350 euros
+Offre Spéciale: Non
+--------------------------
+
+ID Concurrent: COMP-108
+Produit/Service: Audit SI
+Tarif: 1400 euros
+Offre Spéciale: Non
+--------------------------
+
+ID Concurrent: COMP-109
+Produit/Service: Cybersécurité
+Tarif: 1450 euros
+Offre Spéciale: Non
+--------------------------
+
+ID Concurrent: COMP-110
+Produit/Service: Consulting
+Tarif: 1500 euros
+Offre Spéciale: Oui
+--------------------------
+
+ID Concurrent: COMP-111
+Produit/Service: Formation IA
+Tarif: 1550 euros
+Offre Spéciale: Non
+--------------------------
+
+ID Concurrent: COMP-112
+Produit/Service: Formation Cloud
+Tarif: 1600 euros
+Offre Spéciale: Non
+--------------------------
+
+ID Concurrent: COMP-113
+Produit/Service: Audit SI
+Tarif: 1650 euros
+Offre Spéciale: Non
+--------------------------
+
+ID Concurrent: COMP-114
+Produit/Service: Cybersécurité
+Tarif: 1700 euros
+Offre Spéciale: Non
+--------------------------
+
+ID Concurrent: COMP-115
+Produit/Service: Consulting
+Tarif: 1750 euros
+Offre Spéciale: Oui
+--------------------------
+
+ID Concurrent: COMP-116
+Produit/Service: Formation IA
+Tarif: 1800 euros
+Offre Spéciale: Non
+--------------------------
+
+ID Concurrent: COMP-117
+Produit/Service: Formation Cloud
+Tarif: 1850 euros
+Offre Spéciale: Non
+--------------------------
+
+ID Concurrent: COMP-118
+Produit/Service: Audit SI
+Tarif: 1900 euros
+Offre Spéciale: Non
+--------------------------
+
+ID Concurrent: COMP-119
+Produit/Service: Cybersécurité
+Tarif: 1950 euros
+Offre Spéciale: Non
+--------------------------
+
+ID Concurrent: COMP-120
+Produit/Service: Consulting
+Tarif: 1000 euros
+Offre Spéciale: Oui
+--------------------------
+
+ID Concurrent: COMP-121
+Produit/Service: Formation IA
+Tarif: 1050 euros
+Offre Spéciale: Non
+--------------------------
+
+ID Concurrent: COMP-122
+Produit/Service: Formation Cloud
+Tarif: 1100 euros
+Offre Spéciale: Non
+--------------------------
+
+ID Concurrent: COMP-123
+Produit/Service: Audit SI
+Tarif: 1150 euros
+Offre Spéciale: Non
+--------------------------
+
+ID Concurrent: COMP-124
+Produit/Service: Cybersécurité
+Tarif: 1200 euros
+Offre Spéciale: Non
+--------------------------
+
+ID Concurrent: COMP-125
+Produit/Service: Consulting
+Tarif: 1250 euros
+Offre Spéciale: Oui
+--------------------------
+
+ID Concurrent: COMP-126
+Produit/Service: Formation IA
+Tarif: 1300 euros
+Offre Spéciale: Non
+--------------------------
+
+ID Concurrent: COMP-127
+Produit/Service: Formation Cloud
+Tarif: 1350 euros
+Offre Spéciale: Non
+--------------------------
+
+ID Concurrent: COMP-128
+Produit/Service: Audit SI
+Tarif: 1400 euros
+Offre Spéciale: Non
+--------------------------
+
+ID Concurrent: COMP-129
+Produit/Service: Cybersécurité
+Tarif: 1450 euros
+Offre Spéciale: Non
+--------------------------
+
+ID Concurrent: COMP-130
+Produit/Service: Consulting
+Tarif: 1500 euros
+Offre Spéciale: Oui
+--------------------------
+
+ID Concurrent: COMP-131
+Produit/Service: Formation IA
+Tarif: 1550 euros
+Offre Spéciale: Non
+--------------------------
+
+ID Concurrent: COMP-132
+Produit/Service: Formation Cloud
+Tarif: 1600 euros
+Offre Spéciale: Non
+--------------------------
+
+ID Concurrent: COMP-133
+Produit/Service: Audit SI
+Tarif: 1650 euros
+Offre Spéciale: Non
+--------------------------
+
+ID Concurrent: COMP-134
+Produit/Service: Cybersécurité
+Tarif: 1700 euros
+Offre Spéciale: Non
+--------------------------
+
+ID Concurrent: COMP-135
+Produit/Service: Consulting
+Tarif: 1750 euros
+Offre Spéciale: Oui
+--------------------------
+
+ID Concurrent: COMP-136
+Produit/Service: Formation IA
+Tarif: 1800 euros
+Offre Spéciale: Non
+--------------------------
+
+ID Concurrent: COMP-137
+Produit/Service: Formation Cloud
+Tarif: 1850 euros
+Offre Spéciale: Non
+--------------------------
+
+ID Concurrent: COMP-138
+Produit/Service: Audit SI
+Tarif: 1900 euros
+Offre Spéciale: Non
+--------------------------
+
+ID Concurrent: COMP-139
+Produit/Service: Cybersécurité
+Tarif: 1950 euros
+Offre Spéciale: Non
+--------------------------
+
+ID Concurrent: COMP-140
+Produit/Service: Consulting
+Tarif: 1000 euros
+Offre Spéciale: Oui
+--------------------------
+
+ID Concurrent: COMP-141
+Produit/Service: Formation IA
+Tarif: 1050 euros
+Offre Spéciale: Non
+--------------------------
+
+ID Concurrent: COMP-142
+Produit/Service: Formation Cloud
+Tarif: 1100 euros
+Offre Spéciale: Non
+--------------------------
+
+ID Concurrent: COMP-143
+Produit/Service: Audit SI
+Tarif: 1150 euros
+Offre Spéciale: Non
+--------------------------
+
+ID Concurrent: COMP-144
+Produit/Service: Cybersécurité
+Tarif: 1200 euros
+Offre Spéciale: Non
+--------------------------
+
+ID Concurrent: COMP-145
+Produit/Service: Consulting
+Tarif: 1250 euros
+Offre Spéciale: Oui
+--------------------------
+
+ID Concurrent: COMP-146
+Produit/Service: Formation IA
+Tarif: 1300 euros
+Offre Spéciale: Non
+--------------------------
+
+ID Concurrent: COMP-147
+Produit/Service: Formation Cloud
+Tarif: 1350 euros
+Offre Spéciale: Non
+--------------------------
+
+ID Concurrent: COMP-148
+Produit/Service: Audit SI
+Tarif: 1400 euros
+Offre Spéciale: Non
+--------------------------
+
+ID Concurrent: COMP-149
+Produit/Service: Cybersécurité
+Tarif: 1450 euros
+Offre Spéciale: Non
+--------------------------
+
+ID Concurrent: COMP-150
+Produit/Service: Consulting
+Tarif: 1500 euros
+Offre Spéciale: Oui
+--------------------------
+
+ID Concurrent: COMP-151
+Produit/Service: Formation IA
+Tarif: 1550 euros
+Offre Spéciale: Non
+--------------------------
+
+ID Concurrent: COMP-152
+Produit/Service: Formation Cloud
+Tarif: 1600 euros
+Offre Spéciale: Non
+--------------------------
+
+ID Concurrent: COMP-153
+Produit/Service: Audit SI
+Tarif: 1650 euros
+Offre Spéciale: Non
+--------------------------
+
+ID Concurrent: COMP-154
+Produit/Service: Cybersécurité
+Tarif: 1700 euros
+Offre Spéciale: Non
+--------------------------
+
+ID Concurrent: COMP-155
+Produit/Service: Consulting
+Tarif: 1750 euros
+Offre Spéciale: Oui
+--------------------------
+
+ID Concurrent: COMP-156
+Produit/Service: Formation IA
+Tarif: 1800 euros
+Offre Spéciale: Non
+--------------------------
+
+ID Concurrent: COMP-157
+Produit/Service: Formation Cloud
+Tarif: 1850 euros
+Offre Spéciale: Non
+--------------------------
+
+ID Concurrent: COMP-158
+Produit/Service: Audit SI
+Tarif: 1900 euros
+Offre Spéciale: Non
+--------------------------
+
+ID Concurrent: COMP-159
+Produit/Service: Cybersécurité
+Tarif: 1950 euros
+Offre Spéciale: Non
+--------------------------
+
+ID Concurrent: COMP-160
+Produit/Service: Consulting
+Tarif: 1000 euros
+Offre Spéciale: Oui
+--------------------------
+
+ID Concurrent: COMP-161
+Produit/Service: Formation IA
+Tarif: 1050 euros
+Offre Spéciale: Non
+--------------------------
+
+ID Concurrent: COMP-162
+Produit/Service: Formation Cloud
+Tarif: 1100 euros
+Offre Spéciale: Non
+--------------------------
+
+ID Concurrent: COMP-163
+Produit/Service: Audit SI
+Tarif: 1150 euros
+Offre Spéciale: Non
+--------------------------
+
+ID Concurrent: COMP-164
+Produit/Service: Cybersécurité
+Tarif: 1200 euros
+Offre Spéciale: Non
+--------------------------
+
+ID Concurrent: COMP-165
+Produit/Service: Consulting
+Tarif: 1250 euros
+Offre Spéciale: Oui
+--------------------------
+
+ID Concurrent: COMP-166
+Produit/Service: Formation IA
+Tarif: 1300 euros
+Offre Spéciale: Non
+--------------------------
+
+ID Concurrent: COMP-167
+Produit/Service: Formation Cloud
+Tarif: 1350 euros
+Offre Spéciale: Non
+--------------------------
+
+ID Concurrent: COMP-168
+Produit/Service: Audit SI
+Tarif: 1400 euros
+Offre Spéciale: Non
+--------------------------
+
+ID Concurrent: COMP-169
+Produit/Service: Cybersécurité
+Tarif: 1450 euros
+Offre Spéciale: Non
+--------------------------
+
+ID Concurrent: COMP-170
+Produit/Service: Consulting
+Tarif: 1500 euros
+Offre Spéciale: Oui
+--------------------------
+
+ID Concurrent: COMP-171
+Produit/Service: Formation IA
+Tarif: 1550 euros
+Offre Spéciale: Non
+--------------------------
+
+ID Concurrent: COMP-172
+Produit/Service: Formation Cloud
+Tarif: 1600 euros
+Offre Spéciale: Non
+--------------------------
+
+ID Concurrent: COMP-173
+Produit/Service: Audit SI
+Tarif: 1650 euros
+Offre Spéciale: Non
+--------------------------
+
+ID Concurrent: COMP-174
+Produit/Service: Cybersécurité
+Tarif: 1700 euros
+Offre Spéciale: Non
+--------------------------
+
+ID Concurrent: COMP-175
+Produit/Service: Consulting
+Tarif: 1750 euros
+Offre Spéciale: Oui
+--------------------------
+
+ID Concurrent: COMP-176
+Produit/Service: Formation IA
+Tarif: 1800 euros
+Offre Spéciale: Non
+--------------------------
+
+ID Concurrent: COMP-177
+Produit/Service: Formation Cloud
+Tarif: 1850 euros
+Offre Spéciale: Non
+--------------------------
+
+ID Concurrent: COMP-178
+Produit/Service: Audit SI
+Tarif: 1900 euros
+Offre Spéciale: Non
+--------------------------
+
+ID Concurrent: COMP-179
+Produit/Service: Cybersécurité
+Tarif: 1950 euros
+Offre Spéciale: Non
+--------------------------
+
+ID Concurrent: COMP-180
+Produit/Service: Consulting
+Tarif: 1000 euros
+Offre Spéciale: Oui
+--------------------------
+
+ID Concurrent: COMP-181
+Produit/Service: Formation IA
+Tarif: 1050 euros
+Offre Spéciale: Non
+--------------------------
+
+ID Concurrent: COMP-182
+Produit/Service: Formation Cloud
+Tarif: 1100 euros
+Offre Spéciale: Non
+--------------------------
+
+ID Concurrent: COMP-183
+Produit/Service: Audit SI
+Tarif: 1150 euros
+Offre Spéciale: Non
+--------------------------
+
+ID Concurrent: COMP-184
+Produit/Service: Cybersécurité
+Tarif: 1200 euros
+Offre Spéciale: Non
+--------------------------
+
+ID Concurrent: COMP-185
+Produit/Service: Consulting
+Tarif: 1250 euros
+Offre Spéciale: Oui
+--------------------------
+
+ID Concurrent: COMP-186
+Produit/Service: Formation IA
+Tarif: 1300 euros
+Offre Spéciale: Non
+--------------------------
+
+ID Concurrent: COMP-187
+Produit/Service: Formation Cloud
+Tarif: 1350 euros
+Offre Spéciale: Non
+--------------------------
+
+ID Concurrent: COMP-188
+Produit/Service: Audit SI
+Tarif: 1400 euros
+Offre Spéciale: Non
+--------------------------
+
+ID Concurrent: COMP-189
+Produit/Service: Cybersécurité
+Tarif: 1450 euros
+Offre Spéciale: Non
+--------------------------
+
+ID Concurrent: COMP-190
+Produit/Service: Consulting
+Tarif: 1500 euros
+Offre Spéciale: Oui
+--------------------------
+
+ID Concurrent: COMP-191
+Produit/Service: Formation IA
+Tarif: 1550 euros
+Offre Spéciale: Non
+--------------------------
+
+ID Concurrent: COMP-192
+Produit/Service: Formation Cloud
+Tarif: 1600 euros
+Offre Spéciale: Non
+--------------------------
+
+ID Concurrent: COMP-193
+Produit/Service: Audit SI
+Tarif: 1650 euros
+Offre Spéciale: Non
+--------------------------
+
+ID Concurrent: COMP-194
+Produit/Service: Cybersécurité
+Tarif: 1700 euros
+Offre Spéciale: Non
+--------------------------
+
+ID Concurrent: COMP-195
+Produit/Service: Consulting
+Tarif: 1750 euros
+Offre Spéciale: Oui
+--------------------------
+
+ID Concurrent: COMP-196
+Produit/Service: Formation IA
+Tarif: 1800 euros
+Offre Spéciale: Non
+--------------------------
+
+ID Concurrent: COMP-197
+Produit/Service: Formation Cloud
+Tarif: 1850 euros
+Offre Spéciale: Non
+--------------------------
+
+ID Concurrent: COMP-198
+Produit/Service: Audit SI
+Tarif: 1900 euros
+Offre Spéciale: Non
+--------------------------
+
+ID Concurrent: COMP-199
+Produit/Service: Cybersécurité
+Tarif: 1950 euros
+Offre Spéciale: Non
+--------------------------
+
+ID Concurrent: COMP-200
+Produit/Service: Consulting
+Tarif: 1000 euros
+Offre Spéciale: Oui
+--------------------------
+
+ID Concurrent: COMP-201
+Produit/Service: Formation IA
+Tarif: 1050 euros
+Offre Spéciale: Non
+--------------------------
+
+ID Concurrent: COMP-202
+Produit/Service: Formation Cloud
+Tarif: 1100 euros
+Offre Spéciale: Non
+--------------------------
+
+ID Concurrent: COMP-203
+Produit/Service: Audit SI
+Tarif: 1150 euros
+Offre Spéciale: Non
+--------------------------
+
+ID Concurrent: COMP-204
+Produit/Service: Cybersécurité
+Tarif: 1200 euros
+Offre Spéciale: Non
+--------------------------
+
+ID Concurrent: COMP-205
+Produit/Service: Consulting
+Tarif: 1250 euros
+Offre Spéciale: Oui
+--------------------------
+
+ID Concurrent: COMP-206
+Produit/Service: Formation IA
+Tarif: 1300 euros
+Offre Spéciale: Non
+--------------------------
+
+ID Concurrent: COMP-207
+Produit/Service: Formation Cloud
+Tarif: 1350 euros
+Offre Spéciale: Non
+--------------------------
+
+ID Concurrent: COMP-208
+Produit/Service: Audit SI
+Tarif: 1400 euros
+Offre Spéciale: Non
+--------------------------
+
+ID Concurrent: COMP-209
+Produit/Service: Cybersécurité
+Tarif: 1450 euros
+Offre Spéciale: Non
+--------------------------
+
+ID Concurrent: COMP-210
+Produit/Service: Consulting
+Tarif: 1500 euros
+Offre Spéciale: Oui
+--------------------------
+
+ID Concurrent: COMP-211
+Produit/Service: Formation IA
+Tarif: 1550 euros
+Offre Spéciale: Non
+--------------------------
+
+ID Concurrent: COMP-212
+Produit/Service: Formation Cloud
+Tarif: 1600 euros
+Offre Spéciale: Non
+--------------------------
+
+ID Concurrent: COMP-213
+Produit/Service: Audit SI
+Tarif: 1650 euros
+Offre Spéciale: Non
+--------------------------
+
+ID Concurrent: COMP-214
+Produit/Service: Cybersécurité
+Tarif: 1700 euros
+Offre Spéciale: Non
+--------------------------
+
+ID Concurrent: COMP-215
+Produit/Service: Consulting
+Tarif: 1750 euros
+Offre Spéciale: Oui
+--------------------------
+
+ID Concurrent: COMP-216
+Produit/Service: Formation IA
+Tarif: 1800 euros
+Offre Spéciale: Non
+--------------------------
+
+ID Concurrent: COMP-217
+Produit/Service: Formation Cloud
+Tarif: 1850 euros
+Offre Spéciale: Non
+--------------------------
+
+ID Concurrent: COMP-218
+Produit/Service: Audit SI
+Tarif: 1900 euros
+Offre Spéciale: Non
+--------------------------
+
+ID Concurrent: COMP-219
+Produit/Service: Cybersécurité
+Tarif: 1950 euros
+Offre Spéciale: Non
+--------------------------
+
+ID Concurrent: COMP-220
+Produit/Service: Consulting
+Tarif: 1000 euros
+Offre Spéciale: Oui
+--------------------------
+
+ID Concurrent: COMP-221
+Produit/Service: Formation IA
+Tarif: 1050 euros
+Offre Spéciale: Non
+--------------------------
+
+ID Concurrent: COMP-222
+Produit/Service: Formation Cloud
+Tarif: 1100 euros
+Offre Spéciale: Non
+--------------------------
+
+ID Concurrent: COMP-223
+Produit/Service: Audit SI
+Tarif: 1150 euros
+Offre Spéciale: Non
+--------------------------
+
+ID Concurrent: COMP-224
+Produit/Service: Cybersécurité
+Tarif: 1200 euros
+Offre Spéciale: Non
+--------------------------
+
+ID Concurrent: COMP-225
+Produit/Service: Consulting
+Tarif: 1250 euros
+Offre Spéciale: Oui
+--------------------------
+
+ID Concurrent: COMP-226
+Produit/Service: Formation IA
+Tarif: 1300 euros
+Offre Spéciale: Non
+--------------------------
+
+ID Concurrent: COMP-227
+Produit/Service: Formation Cloud
+Tarif: 1350 euros
+Offre Spéciale: Non
+--------------------------
+
+ID Concurrent: COMP-228
+Produit/Service: Audit SI
+Tarif: 1400 euros
+Offre Spéciale: Non
+--------------------------
+
+ID Concurrent: COMP-229
+Produit/Service: Cybersécurité
+Tarif: 1450 euros
+Offre Spéciale: Non
+--------------------------
+
+ID Concurrent: COMP-230
+Produit/Service: Consulting
+Tarif: 1500 euros
+Offre Spéciale: Oui
+--------------------------
+
+ID Concurrent: COMP-231
+Produit/Service: Formation IA
+Tarif: 1550 euros
+Offre Spéciale: Non
+--------------------------
+
+ID Concurrent: COMP-232
+Produit/Service: Formation Cloud
+Tarif: 1600 euros
+Offre Spéciale: Non
+--------------------------
+
+ID Concurrent: COMP-233
+Produit/Service: Audit SI
+Tarif: 1650 euros
+Offre Spéciale: Non
+--------------------------
+
+ID Concurrent: COMP-234
+Produit/Service: Cybersécurité
+Tarif: 1700 euros
+Offre Spéciale: Non
+--------------------------
+
+ID Concurrent: COMP-235
+Produit/Service: Consulting
+Tarif: 1750 euros
+Offre Spéciale: Oui
+--------------------------
+
+ID Concurrent: COMP-236
+Produit/Service: Formation IA
+Tarif: 1800 euros
+Offre Spéciale: Non
+--------------------------
+
+ID Concurrent: COMP-237
+Produit/Service: Formation Cloud
+Tarif: 1850 euros
+Offre Spéciale: Non
+--------------------------
+
+ID Concurrent: COMP-238
+Produit/Service: Audit SI
+Tarif: 1900 euros
+Offre Spéciale: Non
+--------------------------
+
+ID Concurrent: COMP-239
+Produit/Service: Cybersécurité
+Tarif: 1950 euros
+Offre Spéciale: Non
+--------------------------
+
+ID Concurrent: COMP-240
+Produit/Service: Consulting
+Tarif: 1000 euros
+Offre Spéciale: Oui
+--------------------------
+
+ID Concurrent: COMP-241
+Produit/Service: Formation IA
+Tarif: 1050 euros
+Offre Spéciale: Non
+--------------------------
+
+ID Concurrent: COMP-242
+Produit/Service: Formation Cloud
+Tarif: 1100 euros
+Offre Spéciale: Non
+--------------------------
+
+ID Concurrent: COMP-243
+Produit/Service: Audit SI
+Tarif: 1150 euros
+Offre Spéciale: Non
+--------------------------
+
+ID Concurrent: COMP-244
+Produit/Service: Cybersécurité
+Tarif: 1200 euros
+Offre Spéciale: Non
+--------------------------
+
+ID Concurrent: COMP-245
+Produit/Service: Consulting
+Tarif: 1250 euros
+Offre Spéciale: Oui
+--------------------------
+
+ID Concurrent: COMP-246
+Produit/Service: Formation IA
+Tarif: 1300 euros
+Offre Spéciale: Non
+--------------------------
+
+ID Concurrent: COMP-247
+Produit/Service: Formation Cloud
+Tarif: 1350 euros
+Offre Spéciale: Non
+--------------------------
+
+ID Concurrent: COMP-248
+Produit/Service: Audit SI
+Tarif: 1400 euros
+Offre Spéciale: Non
+--------------------------
+
+ID Concurrent: COMP-249
+Produit/Service: Cybersécurité
+Tarif: 1450 euros
+Offre Spéciale: Non
+--------------------------
+
+ID Concurrent: COMP-250
+Produit/Service: Consulting
+Tarif: 1500 euros
+Offre Spéciale: Oui
+--------------------------
+
+ID Concurrent: COMP-251
+Produit/Service: Formation IA
+Tarif: 1550 euros
+Offre Spéciale: Non
+--------------------------
+
+ID Concurrent: COMP-252
+Produit/Service: Formation Cloud
+Tarif: 1600 euros
+Offre Spéciale: Non
+--------------------------
+
+ID Concurrent: COMP-253
+Produit/Service: Audit SI
+Tarif: 1650 euros
+Offre Spéciale: Non
+--------------------------
+
+ID Concurrent: COMP-254
+Produit/Service: Cybersécurité
+Tarif: 1700 euros
+Offre Spéciale: Non
+--------------------------
+
+ID Concurrent: COMP-255
+Produit/Service: Consulting
+Tarif: 1750 euros
+Offre Spéciale: Oui
+--------------------------
+
+ID Concurrent: COMP-256
+Produit/Service: Formation IA
+Tarif: 1800 euros
+Offre Spéciale: Non
+--------------------------
+
+ID Concurrent: COMP-257
+Produit/Service: Formation Cloud
+Tarif: 1850 euros
+Offre Spéciale: Non
+--------------------------
+
+ID Concurrent: COMP-258
+Produit/Service: Audit SI
+Tarif: 1900 euros
+Offre Spéciale: Non
+--------------------------
+
+ID Concurrent: COMP-259
+Produit/Service: Cybersécurité
+Tarif: 1950 euros
+Offre Spéciale: Non
+--------------------------
+
+ID Concurrent: COMP-260
+Produit/Service: Consulting
+Tarif: 1000 euros
+Offre Spéciale: Oui
+--------------------------
+
+ID Concurrent: COMP-261
+Produit/Service: Formation IA
+Tarif: 1050 euros
+Offre Spéciale: Non
+--------------------------
+
+ID Concurrent: COMP-262
+Produit/Service: Formation Cloud
+Tarif: 1100 euros
+Offre Spéciale: Non
+--------------------------
+
+ID Concurrent: COMP-263
+Produit/Service: Audit SI
+Tarif: 1150 euros
+Offre Spéciale: Non
+--------------------------
+
+ID Concurrent: COMP-264
+Produit/Service: Cybersécurité
+Tarif: 1200 euros
+Offre Spéciale: Non
+--------------------------
+
+ID Concurrent: COMP-265
+Produit/Service: Consulting
+Tarif: 1250 euros
+Offre Spéciale: Oui
+--------------------------
+
+ID Concurrent: COMP-266
+Produit/Service: Formation IA
+Tarif: 1300 euros
+Offre Spéciale: Non
+--------------------------
+
+ID Concurrent: COMP-267
+Produit/Service: Formation Cloud
+Tarif: 1350 euros
+Offre Spéciale: Non
+--------------------------
+
+ID Concurrent: COMP-268
+Produit/Service: Audit SI
+Tarif: 1400 euros
+Offre Spéciale: Non
+--------------------------
+
+ID Concurrent: COMP-269
+Produit/Service: Cybersécurité
+Tarif: 1450 euros
+Offre Spéciale: Non
+--------------------------
+
+ID Concurrent: COMP-270
+Produit/Service: Consulting
+Tarif: 1500 euros
+Offre Spéciale: Oui
+--------------------------
+
+ID Concurrent: COMP-271
+Produit/Service: Formation IA
+Tarif: 1550 euros
+Offre Spéciale: Non
+--------------------------
+
+ID Concurrent: COMP-272
+Produit/Service: Formation Cloud
+Tarif: 1600 euros
+Offre Spéciale: Non
+--------------------------
+
+ID Concurrent: COMP-273
+Produit/Service: Audit SI
+Tarif: 1650 euros
+Offre Spéciale: Non
+--------------------------
+
+ID Concurrent: COMP-274
+Produit/Service: Cybersécurité
+Tarif: 1700 euros
+Offre Spéciale: Non
+--------------------------
+
+ID Concurrent: COMP-275
+Produit/Service: Consulting
+Tarif: 1750 euros
+Offre Spéciale: Oui
+--------------------------
+
+ID Concurrent: COMP-276
+Produit/Service: Formation IA
+Tarif: 1800 euros
+Offre Spéciale: Non
+--------------------------
+
+ID Concurrent: COMP-277
+Produit/Service: Formation Cloud
+Tarif: 1850 euros
+Offre Spéciale: Non
+--------------------------
+
+ID Concurrent: COMP-278
+Produit/Service: Audit SI
+Tarif: 1900 euros
+Offre Spéciale: Non
+--------------------------
+
+ID Concurrent: COMP-279
+Produit/Service: Cybersécurité
+Tarif: 1950 euros
+Offre Spéciale: Non
+--------------------------
+
+ID Concurrent: COMP-280
+Produit/Service: Consulting
+Tarif: 1000 euros
+Offre Spéciale: Oui
+--------------------------
+
+ID Concurrent: COMP-281
+Produit/Service: Formation IA
+Tarif: 1050 euros
+Offre Spéciale: Non
+--------------------------
+
+ID Concurrent: COMP-282
+Produit/Service: Formation Cloud
+Tarif: 1100 euros
+Offre Spéciale: Non
+--------------------------
+
+ID Concurrent: COMP-283
+Produit/Service: Audit SI
+Tarif: 1150 euros
+Offre Spéciale: Non
+--------------------------
+
+ID Concurrent: COMP-284
+Produit/Service: Cybersécurité
+Tarif: 1200 euros
+Offre Spéciale: Non
+--------------------------
+
+ID Concurrent: COMP-285
+Produit/Service: Consulting
+Tarif: 1250 euros
+Offre Spéciale: Oui
+--------------------------
+
+ID Concurrent: COMP-286
+Produit/Service: Formation IA
+Tarif: 1300 euros
+Offre Spéciale: Non
+--------------------------
+
+ID Concurrent: COMP-287
+Produit/Service: Formation Cloud
+Tarif: 1350 euros
+Offre Spéciale: Non
+--------------------------
+
+ID Concurrent: COMP-288
+Produit/Service: Audit SI
+Tarif: 1400 euros
+Offre Spéciale: Non
+--------------------------
+
+ID Concurrent: COMP-289
+Produit/Service: Cybersécurité
+Tarif: 1450 euros
+Offre Spéciale: Non
+--------------------------
+
+ID Concurrent: COMP-290
+Produit/Service: Consulting
+Tarif: 1500 euros
+Offre Spéciale: Oui
+--------------------------
+
+ID Concurrent: COMP-291
+Produit/Service: Formation IA
+Tarif: 1550 euros
+Offre Spéciale: Non
+--------------------------
+
+ID Concurrent: COMP-292
+Produit/Service: Formation Cloud
+Tarif: 1600 euros
+Offre Spéciale: Non
+--------------------------
+
+ID Concurrent: COMP-293
+Produit/Service: Audit SI
+Tarif: 1650 euros
+Offre Spéciale: Non
+--------------------------
+
+ID Concurrent: COMP-294
+Produit/Service: Cybersécurité
+Tarif: 1700 euros
+Offre Spéciale: Non
+--------------------------
+
+ID Concurrent: COMP-295
+Produit/Service: Consulting
+Tarif: 1750 euros
+Offre Spéciale: Oui
+--------------------------
+
+ID Concurrent: COMP-296
+Produit/Service: Formation IA
+Tarif: 1800 euros
+Offre Spéciale: Non
+--------------------------
+
+ID Concurrent: COMP-297
+Produit/Service: Formation Cloud
+Tarif: 1850 euros
+Offre Spéciale: Non
+--------------------------
+
+ID Concurrent: COMP-298
+Produit/Service: Audit SI
+Tarif: 1900 euros
+Offre Spéciale: Non
+--------------------------
+
+ID Concurrent: COMP-299
+Produit/Service: Cybersécurité
+Tarif: 1950 euros
+Offre Spéciale: Non
+--------------------------
+
+ID Concurrent: COMP-300
+Produit/Service: Consulting
+Tarif: 1000 euros
+Offre Spéciale: Oui
+--------------------------
+

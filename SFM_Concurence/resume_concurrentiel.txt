@@ -1,0 +1,6 @@
+Résumé du marché concurrentiel 
+Formation IA : de 1050 à 1800€, moyenne 1425.0€, 0 offre(s) spéciale(s).
+Formation Cloud : de 1100 à 1850€, moyenne 1475.0€, 0 offre(s) spéciale(s).
+Audit SI : de 1150 à 1900€, moyenne 1525.0€, 0 offre(s) spéciale(s).
+Cybersécurité : de 1200 à 1950€, moyenne 1575.0€, 0 offre(s) spéciale(s).
+Consulting : de 1000 à 1750€, moyenne 1375.0€, 60 offre(s) spéciale(s).

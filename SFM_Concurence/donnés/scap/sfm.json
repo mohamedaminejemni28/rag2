@@ -1,0 +1,64 @@
+{
+    "nom": "SFM Technologies",
+    "description": "SFM est une entreprise créée en 1995, issue du domaine des télécommunications et des réseaux. Son équipe d’experts réalise des missions d’ingénierie et de conseil pour régulateurs, opérateurs, ministères des TIC et bailleurs de fonds.",
+    "vision": "Etre un acteur majeur de l’évolution digitale dans le monde.",
+    "mission": "Améliorer la connectivité dans le monde, accompagner la digitalisation de nos clients et numériser les processus de travail.",
+    "valeurs": ["Respect", "Innovation", "Intelligence collective", "Motivation", "Valorisation"],
+    "solutions_services": {
+        "Solutions Telco": "https://solutions-telco.sfmtechnologies.com/",
+        "Solutions Entreprise": "https://solutions-iot.sfmtechnologies.com/"
+    },
+    "catalogues": {
+        "Catalogue SFM TELCO 2024": "https://www.sfmtechnologies.com/catalogue-sfm-telco-2024/",
+        "Catalogue SFM ENTREPRISE 2024": "https://www.sfmtechnologies.com/catalogue-sfm-entreprise-2024/"
+    },
+    "clients_count": 30,
+    "filiales": ["SFM EUROPE", "SFM Cameroun", "SFM Burkina", "SFM Guinée"],
+    "contacts": {
+        "SFM TECHNOLOGIES": {
+            "tels": ["+216 71 845 248", "+216 71 845 249", "+216 93 588 299"],
+            "email": "info@sfmtechnologies.com"
+        },
+        "SFM CAMEROUN": {
+            "tels": ["+237 233 43 39 97", "+237 698 57 75 64", "+237 673 07 99 41"],
+            "email": "info.cameroun@sfmtechnologies.com"
+        },
+        "SFM GUINÉE": {
+            "tels": ["+224 622 84 54 04"],
+            "email": "info.guinee@sfmtechnologies.com"
+        },
+        "SFM EUROPE": {
+            "tel": "+33 6 15 53 23 04",
+            "email": "info.europe@sfmtechnologies.com"
+        },
+        "SFM BURKINA": {
+            "tel": "+226 67 47 41 70",
+            "email": "info.burkina@sfmtechnologies.com"
+        }
+    },
+    "reseaux_sociaux": {
+        "facebook": "https://www.facebook.com/sfmtechnologies",
+        "linkedin": "https://www.linkedin.com/company/groupe-sfm/",
+        "instagram": "https://www.instagram.com/sfmtechnologies/"
+    },
+    "actualites": [
+        {
+            "titre": "Libye 2023",
+            "lien": "https://www.sfmtechnologies.com/blog/2023/06/06/libye-2023/"
+        },
+        {
+            "titre": "FRATEL 2023",
+            "lien": "https://www.sfmtechnologies.com/blog/2023/05/09/fratel-2023/"
+        },
+        {
+            "titre": "Tunis 2023",
+            "lien": "https://www.sfmtechnologies.com/blog/2023/01/29/tunis-2023/"
+        },
+        {
+            "titre": "MWC Africa – Kigali",
+            "lien": "https://www.sfmtechnologies.com/blog/2022/10/26/sfm-est-a-wmc-africa-kigali/"
+        }
+    ],
+    "adresse": "81 Av. Hédi Chaker, Tunis 1002",
+    "google_maps_embed": "https://maps.google.com/maps?q=81%20Av.%20H%C3%A9di%20Chaker%2C%20Tunis%201002&t=m&z=10&output=embed&iwloc=near"
+}
